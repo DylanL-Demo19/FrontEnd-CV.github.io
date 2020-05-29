@@ -2,4 +2,4 @@
 Html, CSS, LESS, JavaScript, AJAX, RWD, Bootstrap
 
 URL:
-https://dylanl-t19.github.io/FrontEnd-CV.github.io/index.html
+https://github.com/DylanL-Demo19/FrontEnd-CV.github.io
